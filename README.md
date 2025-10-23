@@ -46,7 +46,7 @@
 <h2 align="center">📫 Let's connect</h2>
 
 <p align="center">
-  <a href="intelect23235@gmail.com">Email</a> • 
+  <a href="mailto:intelect23235@gmail.com">Email</a> • 
   <a href="https://t.me/gizatuly_b">Telegram</a>
 </p>
 
