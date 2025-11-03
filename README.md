@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <b>bekgm</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Bekzat</b></h1>
 
 <p align="center">Welcome to my GitHub — glad you're here!</p>
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🎓 Student at <b>Astana IT University</b><br>
+  🎓 Student of <b>Astana IT University</b><br>
   💡 Focused on software engineering and backend architecture
 </p>
 
@@ -30,23 +30,4 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
----
-
-<h2 align="center">🚀 What I'm working on</h2>
-
-- Building RESTful APIs with FastAPI and PostgreSQL  
-- Automating tasks with Celery and Redis  
-- Writing clean, testable code with Pytest  
-- Exploring Kafka for event-driven architecture  
-- Deploying apps with Docker and GitHub Actions  
-- Creating accessible and well-documented APIs with Swagger and Postman  
-
----
-
-<h2 align="center">📫 Let's connect</h2>
-
-<p align="center">
-  <a href="mailto:intelect23235@gmail.com">Email</a> • 
-  <a href="https://t.me/gizatuly_b">Telegram</a>
-</p>
 
