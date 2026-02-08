@@ -3,18 +3,18 @@
 <p align="center">Welcome to my GitHub — glad you're here!</p>
 
 <p align="center">
-  🧑‍💻 I'm a backend developer specializing in <b>Python</b><br>
-  🌍 Based in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Kazakhstan.png/1200px-Flag_of_Kazakhstan.png" alt="Kazakhstan Flag" width="20" /> <b>Astana, Kazakhstan</b>
+  I'm a backend developer specializing in <b>Python</b><br>
+  Based in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Kazakhstan.png/1200px-Flag_of_Kazakhstan.png" alt="Kazakhstan Flag" width="20" /> <b>Astana, Kazakhstan</b>
 </p>
 
 <p align="center">
-  🎓 Student of <b>Astana IT University</b><br>
-  💡 Focused on software engineering and backend architecture
+  Student of <b>Astana IT University</b><br>
+  Focused on software engineering and backend architecture
 </p>
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
