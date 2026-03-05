@@ -49,20 +49,6 @@
 
 <div align="center">
 
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bekgm/bekgm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bekgm/bekgm/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/bekgm/bekgm/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=bekgm&style=flat-square&color=58a6ff" alt="Profile Views" />
