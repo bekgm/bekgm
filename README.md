@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Bekzat
+# Bekzat
 
 **Backend Developer · Python Enthusiast · Builder**
 
